@@ -23,6 +23,6 @@ Incluso usar código HTML dentro de markdown
 | Chaqueta                                 | 50€                                     |
 | Pantalón                                 | 30€                                     |
 
-<div style="border: 1px solid #309920; padding:10px;">
+<div style="border: 1px solid #309920; padding:10px; div: green">
     Esto es texto dentro de un div verde.
 </div>
