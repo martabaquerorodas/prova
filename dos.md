@@ -7,7 +7,7 @@
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
 Podemos poner imágenes!  
-![Imagen](/assets/img/cielo.jfif)
+![Imagen](/assets/img/images.jfif)
 
 
 
