@@ -7,9 +7,9 @@
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
 Podemos poner imágenes!  
-![Imagen](/github-light/assets/images/frog100x100.jpg)
+![Imagen](/prueba-Markdown/frog100x100.jpg)
 
-![Imagen](/github-light/assets/images/cielo.jfif)
+![Imagen](/prueba-Markdown/cielo.jfif)
 
 
 
