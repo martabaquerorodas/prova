@@ -1,4 +1,4 @@
-# Mi primer documento Markdown
+## Mi documento Markdown
 
 * [Este](https://www.markdownguide.org/basic-syntax/) es un enlace a una web en la que se puede aprender markdown.
 * Hay un montón de recursos más como [este otro](https://www.markdowntutorial.com/) por ejemplo. En este caso es un tutorial interactivo!
@@ -6,5 +6,21 @@
 
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
-Podemos poner incluso imágenes!  
-![Imagen](https://guilleatm.github.io/demo-web/assets/img/my-profile-img.jpg)
+Podemos poner imágenes!  
+![Imagen](/assets/img/images.jfif)
+
+
+
+
+Incluso usar código HTML dentro de markdown
+
+<a href="https://martabaquerorodas.github.io/prueba-Markdown/">**Link a mi Portfolio**</a>
+
+| Prendas                                  | Precios                                 |
+|------------------------------------------|-----------------------------------------|
+| Chaqueta                                 | 50€                                     |
+| Pantalón                                 | 30€                                     |
+
+<div style="border: 1px solid #309920; padding:10px; div: green">
+    Esto es texto dentro de un div verde.
+</div>
