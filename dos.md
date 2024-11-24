@@ -7,16 +7,14 @@
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
 Podemos poner imágenes!  
-![Imagen](/prueba-Markdown/frog100x100.jpg)
-
-![Imagen](/prueba-Markdown/cielo.jfif)
+![Imagen](/prueba-Markdown/assets/img/cielo.jfif)
 
 
 
 
 Incluso usar código HTML dentro de markdown
 
-<a href="https://martabaquerorodas.github.io/prueba-Markdown/">link</a>
+<a href="https://martabaquerorodas.github.io/prueba-Markdown/">Link a mi Portfolio</a>
 
 | Prendas                                  | Precios                                 |
 |------------------------------------------|-----------------------------------------|
