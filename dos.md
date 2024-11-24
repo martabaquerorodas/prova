@@ -9,6 +9,11 @@
 Podemos poner imágenes!  
 ![Imagen](/github-light/assets/images/frog100x100.jpg)
 
+![Imagen](/github-light/assets/images/cielo.jfif)
+
+
+
+
 Incluso usar código HTML dentro de markdown
 
 <a href="https://martabaquerorodas.github.io/prueba-Markdown/">link</a>
